@@ -1,3 +1,3 @@
 # ExampleRepo
 Example excercise for creating remote repository
-added some text to see changes
+Version 1.1 Tomi Haaksila: Added some new text
